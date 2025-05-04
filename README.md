@@ -11,7 +11,7 @@
 - 📖 CRUD des livres (titre, auteur, description, année)
 - 👤 Chaque utilisateur ne voit que ses propres livres
 - 🌐 API REST avec Express + MongoDB
-- ⚛️ Frontend (React ou autre selon ta version)
+- ⚛️ Frontend (React)
 
 ---
 
@@ -31,4 +31,4 @@
 
 ```bash
 git clone https://github.com/<PapaLahine>/Bookzone.git
-cd bookzone
+cd Bookzone
